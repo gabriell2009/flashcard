@@ -1,7 +1,7 @@
 criaCartao(
     'Filme',
-    'Quem é ator principal do filme homem de ferro três?',
-    'Robert Downey Jr.'
+    'Quem é ator interpreta o campitão América?',
+    'Chris Evans.'
 )
 
 criaCartao(
@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'Futebol',
-    'Quem é o melhor atacante do Brasil nos tempos de hoje?',
-    'Vinícius Júnior'
+    'Quem é o jogador considerado o Rei do Futebol?',
+    'Pelé'
 )
 
 criaCartao(
